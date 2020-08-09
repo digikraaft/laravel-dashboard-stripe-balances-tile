@@ -15,7 +15,7 @@ You can install the package via composer:
 ```bash
 composer require digikraaft/laravel-dashboard-stripe-balances-tile
 ```
-You need to install, publish the migrations and config file of the [Laravel Dashboard](https://github.com/spatie/laravel-dashboard) package.
+You need to publish the migrations and config file of the [Laravel Dashboard](https://github.com/spatie/laravel-dashboard) package.
 In the `dashboard` config file, you can optionally add this configuration in the tiles key and customize it for your own needs:
 ```
 // in config/dashboard.php
